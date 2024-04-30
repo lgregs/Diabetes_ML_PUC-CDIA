@@ -4,7 +4,7 @@
 
 This project is aimed at analyzing diabetes-related data to gain insights and forecast outcomes using Python.
 
-- This Dataset Can be foun in [Kaggle ](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- This Dataset Can be found in [Kaggle ](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 ## Table of Contents
 - [Description](#description)
