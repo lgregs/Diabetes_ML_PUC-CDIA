@@ -4,6 +4,8 @@
 
 This project is aimed at analyzing diabetes-related data to gain insights and forecast outcomes using Python.
 
+- This Dataset Can be foun in [Kaggle ](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+
 ## Table of Contents
 - [Description](#description)
 - [Organization and Exploratory Data Analysis](#organization-and-exploratory-data-analysis)
@@ -14,8 +16,6 @@ This project is aimed at analyzing diabetes-related data to gain insights and fo
   - [Decision Tree](#decision-tree)
   - [Support Vector Machine (SVM)](#support-vector-machine-svm)
 - [Conclusion](#conclusion)
-
-- This Dataset Can be foun in [Kaggle ](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 ## Description
 
